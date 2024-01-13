@@ -1,10 +1,10 @@
-# 基于spring的在线家教管理系统
+# 在线家教管理系统2
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**家教2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**家教**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,45 +35,37 @@
 
 ### 4.1 登录 注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026488.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208121026488.jpg)
 
-![用户登录和注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026008.jpg)
+![用户登录和注册](https://www.codeshop.fun/Typora-Images/202208121026008.jpg)
 
 ### 4.2 用户模块
 
-![用户-后端界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026813.jpg)
+![用户-后端界面](https://www.codeshop.fun/Typora-Images/202208121026813.jpg)
 
-![用户-家教订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026795.jpg)
+![用户-家教订单](https://www.codeshop.fun/Typora-Images/202208121026795.jpg)
 
-![用户-预约记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026616.jpg)
+![用户-预约记录](https://www.codeshop.fun/Typora-Images/202208121026616.jpg)
 
 ### 4.3 教师模块
 
-![教师后端界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026422.jpg)
+![教师后端界面](https://www.codeshop.fun/Typora-Images/202208121026422.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-会员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026778.jpg)
+![管理员-会员管理](https://www.codeshop.fun/Typora-Images/202208121026778.jpg)
 
-![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026792.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202208121026792.jpg)
 
-![管理员-快速请家教列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026879.jpg)
+![管理员-快速请家教列表](https://www.codeshop.fun/Typora-Images/202208121026879.jpg)
 
-![管理员-发布家教需求](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027046.jpg)
+![管理员-发布家教需求](https://www.codeshop.fun/Typora-Images/202208121027046.jpg)
 
-![管理员-家教需求列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027840.jpg)
+![管理员-家教需求列表](https://www.codeshop.fun/Typora-Images/202208121027840.jpg)
 
-![管理员-教师接单列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027914.jpg)
+![管理员-教师接单列表](https://www.codeshop.fun/Typora-Images/202208121027914.jpg)
 
-![管理员-辅导机构列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027008.jpg)
+![管理员-辅导机构列表](https://www.codeshop.fun/Typora-Images/202208121027008.jpg)
 
-![管理员-试题列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027747.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**家教2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-试题列表](https://www.codeshop.fun/Typora-Images/202208121027747.jpg)
 
